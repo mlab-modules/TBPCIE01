@@ -1,12 +1,6 @@
-
-[Czech](./README.cs.md)
-<!--- module --->
-# TBPCIE01A
-<!--- Emodule --->
-
-<!--- subtitle --->Thunderbolt to PCI Express adapter<!--- Esubtitle --->
+# TBPCIE01A - Thunderbolt to PCI Express adapter
 
 ![TBPCIE01A](/doc/img/TBPCIE01A_QRcode.png)
 
-<!--- description ---><!--- Edescription --->
-            
+The Thunderbolt to PCI Express converter is designed for high-speed data transfer, such as samples from AD converters, cameras, SDR receiver interfaces.
+
